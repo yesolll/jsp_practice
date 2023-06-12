@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-아예아예
+<a href="implicitObject/requestExample.jsp">내장 객체 - request 예제 테스트하러 가기</a>
 </body>
 </html>
